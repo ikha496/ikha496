@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Java, ReactJS, Nodejs, Postgres, and MySql**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've a keen interest in Software Engineering. So, I'm learning **Design Patterns, Algorithms, Data Structure, Micro-Services**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Java, nodejs, MySql**
 
 - 📫 Feel free to reach me out **ibrahim.khaled.sw@gmail.com**
 
