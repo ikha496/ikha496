@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,docker,github,html,java,js,linux,md,mysql,nextjs,nodejs,postman,py,reactjs,redux,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,docker,github,html,java,js,linux,md,mysql,nextjs,nodejs,postman,py,redux,vscode&perline=14" />
   </a>
 </p>
 
