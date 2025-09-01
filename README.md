@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
